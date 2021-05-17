@@ -21,5 +21,5 @@ and otherwise focused on software for the module model railway community.**
 #### Interested in
 - Developing open source.
 - Learning and improving my development skills
-- Model railways operation at module meetings, see [FREMO](https://www.fremo-net.eu/)
+- Model railways operation at module meetings, see [FREMO](https://www.fremo-net.eu/).
 - Slot car racing
