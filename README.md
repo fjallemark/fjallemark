@@ -19,7 +19,6 @@ and otherwise focused on software for the module model railway community.**
 - Since 2020, developing a model railway module management system as open source, see [ModuleRegistry](https://moduleregistry.azurewebsites.net/).
 - Since 2021, developing an app to create and print loco- and wagon cards for model railway operation, see [Wagon Card App](https://wagoncardapp.azurewebsites.net/).
 - Since 2022, developing a [LocoNet© monitor and wiThrottle server application](https://github.com/tellurianinteractive/Tellurian.Trains.LocoNetMonitor).
-
 - Planning to develo a timetable planning app as [open source](https://github.com/tellurianinteractive/Tellurian.Trains.TimetablePlanningApp).
 #### Interested in
 - Developing open source.
