@@ -15,11 +15,11 @@ and otherwise focused on software for the module model railway community.**
 - Software for real time monitoring of transportation.
 - Software for planning and controlling model railway trains at module meetings.
 #### Current projects 2023
-- Developing a model railway module management system as open source, see [ModuleRegistry](https://moduleregistry.azurewebsites.net/).
-- Developing a model railway fast clock as open source, see [Clock](https://telluriantrainsclocksappserver.azurewebsites.net/) in Azure.
-- Developing an app to create and print loco- and wagon cards for model railway operation, see [Wagon Card App](https://wagoncardapp.azurewebsites.net/).
-- Developing a [LocoNet© monitor and wiThrottle server application](https://github.com/tellurianinteractive/Tellurian.Trains.LocoNetMonitor).
-- Since 2016, I have developing a [prototype for timetable planning](https://github.com/fjallemark/TimetablePlanningApp) that has been used for planning operations at several module meetings.
+- Since 2016, I have developing a [prototype for timetable planning](https://github.com/fjallemark/TimetablePlanningApp) that has been used for planning operations at several module meetings.- Since 2019, developing a model railway fast clock as open source, see [Clock](https://telluriantrainsclocksappserver.azurewebsites.net/) in Azure.
+- Since 2020, developing a model railway module management system as open source, see [ModuleRegistry](https://moduleregistry.azurewebsites.net/).
+- Since 2021, developing an app to create and print loco- and wagon cards for model railway operation, see [Wagon Card App](https://wagoncardapp.azurewebsites.net/).
+- Since 2022, developing a [LocoNet© monitor and wiThrottle server application](https://github.com/tellurianinteractive/Tellurian.Trains.LocoNetMonitor).
+
 - Planning to develo a timetable planning app as [open source](https://github.com/tellurianinteractive/Tellurian.Trains.TimetablePlanningApp).
 #### Interested in
 - Developing open source.
