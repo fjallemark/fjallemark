@@ -8,13 +8,13 @@ I retired in 2018 and since then, I worked part time as a freelancing software c
 and otherwise focused on software for the module model railway community.**
 
 #### My specialist areas
-- Developing in .NET and specifically .NET 6 and Blazor.
+- Developing in .NET and specifically .NET and Blazor.
 - Design and implementation of SQL databases, primarily using raw SQL on *SQL Server* and tools like *Entity Framework* and *Dapper*.
 - Test driven programming in C# and VB.NET.
-- Migration of systems from *.NET Framework* to *.NET 6.0* and later.
+- Migration of systems from *.NET Framework* to *.NET 7.0* and later.
 - Software for real time monitoring of transportation.
 - Software for planning and controlling model railway trains at module meetings.
-#### Current projects 2022
+#### Current projects 2023
 - Developing a model railway module management system as open source, see [ModuleRegistry](https://moduleregistry.azurewebsites.net/).
 - Developing a model railway fast clock as open source, see [Clock](https://telluriantrainsclocksappserver.azurewebsites.net/) in Azure.
 - Developing an app to create and print loco- and wagon cards for model railway operation, see [Wagon Card App](https://wagoncardapp.azurewebsites.net/).
