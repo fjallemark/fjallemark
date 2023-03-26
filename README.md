@@ -1,5 +1,5 @@
 ## Stefan Fjällemark
-**Programming since 1974, the last 20 years in Microsoft environment. 
+**Programming since 1974, the last 25 years in Microsoft environment. 
 I develop software for customers and for my own pleasure.**
 
 **I have a background as professional software developer of applications and databases for the public transportation business, 
@@ -8,7 +8,7 @@ I retired in 2018 and since then, I worked part time as a freelancing software c
 and otherwise focused on software for the module model railway community.**
 
 #### My specialist areas
-- Developing in .NET and specifically .NET and Blazor.
+- Developing in .NET and specifically Blazor - a web framework for .NET.
 - Design and implementation of SQL databases, primarily using raw SQL on *SQL Server* and tools like *Entity Framework* and *Dapper*.
 - Test driven programming in C# and VB.NET.
 - Migration of systems from *.NET Framework* to *.NET 7.0* and later.
