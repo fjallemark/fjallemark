@@ -7,7 +7,7 @@ working for one of the largest Scandinavian software houses in this field.
 I retired in 2018 and since then, I worked part time as a freelancing software consulant, 
 and otherwise focused on software for the module model railway community.**
 
-### 50 Years of Programming
+### 50+ Years of Programming
 Starting out back in school 1973 using a smaller PDP/8 computerand TTY-terminal with punchtape, 
 my first programs where train timetable simulation and a dating program.
 My proffessional coding started 1982 writing a timetable type setting program using a WANG computer and Basic, with transfer to the printing house.
