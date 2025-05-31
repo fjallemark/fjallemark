@@ -21,7 +21,7 @@ From late 90's, I started with Microsoft Interdev, Visual Basic and SQL Server. 
 - Migration of systems from *.NET Framework* to *.NET 8.0* and later.
 - Software for real time monitoring of transportation.
 - Software for planning and controlling model railway trains at module meetings.
-### Current projects 2024
+### Current project
 - Since 2016, I have developing a [prototype for timetable planning](https://github.com/fjallemark/TimetablePlanningApp) that has been used for planning operations at several module meetings.
 - Since 2019, developing a model railway fast clock as open source, see [Clock](https://fastclock.azurewebsites.net/) in Azure. There is also a project for controlling [analogue/FREMO RUT clocks](https://github.com/tellurianinteractive/Tellurian.Trains.ClockPulseService).
 - Since 2020, developing a model railway module and meeting management system as open source, see [ModuleRegistry](https://moduleregistry.azurewebsites.net/).
