@@ -23,15 +23,18 @@ From late 90's, I started with Microsoft Interdev, Visual Basic and SQL Server. 
 - Software for planning and controlling model railway trains at module meetings.
 - Programming using AI.
 ### Current projects
+:white_check_mark: in production, :ballot_box_with_check: deployed to [NuGet](https://www.nuget.org/packages?q=Tellurian), :heavy_check_mark: priority project, :construction: under evaulation/redisign.
 - Since 2016, I have developing a [prototype for timetable planning](https://github.com/fjallemark/TimetablePlanningApp) that has been used for planning operations at several module meetings.
-- Since 2019, developing a model railway fast clock as open source, see [Clock](https://fastclock.azurewebsites.net/) in Azure. There is also a project for controlling [analogue/FREMO RUT clocks](https://github.com/tellurianinteractive/Tellurian.Trains.ClockPulseService).
-- Since 2020, developing a model railway module and meeting management system as open source, see [ModuleRegistry](https://moduleregistry.azurewebsites.net/).
-- Since 2021, developing an app to create and print loco- and wagon cards for model railway operation, see [Wagon Card App](https://wagoncardapp.azurewebsites.net/).
-- Since 2022, developing a [LocoNet© monitor and wiThrottle server application](https://github.com/tellurianinteractive/Tellurian.Trains.LocoNetMonitor).
-- Since 2024, developing a standalone timetable planning app, it will be ready during 2026!
-- Since 2025, developing a web based [train dispatch system](https://github.com/tellurianinteractive/Tellurian.Trains.Dispatch).
-- In 2025, developed a [library for **LocoNet** and **XpressNet** commuication](https://github.com/tellurianinteractive/Tellurian.Train.Control).
-- in 2025, developed a [library for managing app translations in several ways](https://github.com/tellurianinteractive/Tellurian.Localization).
+- :ballot_box_with_check: Since 2018, developing geospatial calculation library [Tellurian.Geospatial](https://github.com/tellurianinteractive/Tellurian.Geospatial).
+- :white_check_mark: Since 2019, developing a model railway fast clock as open source, see [Clock](https://fastclock.azurewebsites.net/) in Azure.
+- :white_check_mark: There is also a project for controlling [analogue/FREMO RUT clocks](https://github.com/tellurianinteractive/Tellurian.Trains.ClockPulseService).
+- :white_check_mark: Since 2020, developing a model railway module and meeting management system as open source, see [ModuleRegistry](https://moduleregistry.azurewebsites.net/).
+- :white_check_mark: Since 2021, developing an app to create and print loco- and wagon cards for model railway operation, see [Wagon Card App](https://wagoncardapp.azurewebsites.net/).
+- :construction: Since 2022, developing a [LocoNet© monitor and wiThrottle server application](https://github.com/tellurianinteractive/Tellurian.Trains.LocoNetMonitor).
+- :construction: Since 2024, developing a standalone timetable planning app, it will be ready during 2026!
+- :heavy_check_mark: Since 2025, developing a web based [train dispatch system](https://github.com/tellurianinteractive/Tellurian.Trains.Dispatch). Ready in early 2026.
+- :ballot_box_with_check: In 2025, developed a [library for **LocoNet** and **XpressNet** commuication](https://github.com/tellurianinteractive/Tellurian.Train.Control).
+- :ballot_box_with_check: in 2025, developed a [library for managing app translations in several ways](https://github.com/tellurianinteractive/Tellurian.Localization).
 ### Interested in
 - Developing open source.
 - Learning and improving my development skills.
