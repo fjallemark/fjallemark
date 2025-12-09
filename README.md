@@ -21,13 +21,17 @@ From late 90's, I started with Microsoft Interdev, Visual Basic and SQL Server. 
 - Migration of systems from *.NET Framework* to *.NET 8.0* and later.
 - Software for real time monitoring of transportation.
 - Software for planning and controlling model railway trains at module meetings.
+- Programming using AI.
 ### Current projects
 - Since 2016, I have developing a [prototype for timetable planning](https://github.com/fjallemark/TimetablePlanningApp) that has been used for planning operations at several module meetings.
 - Since 2019, developing a model railway fast clock as open source, see [Clock](https://fastclock.azurewebsites.net/) in Azure. There is also a project for controlling [analogue/FREMO RUT clocks](https://github.com/tellurianinteractive/Tellurian.Trains.ClockPulseService).
 - Since 2020, developing a model railway module and meeting management system as open source, see [ModuleRegistry](https://moduleregistry.azurewebsites.net/).
 - Since 2021, developing an app to create and print loco- and wagon cards for model railway operation, see [Wagon Card App](https://wagoncardapp.azurewebsites.net/).
 - Since 2022, developing a [LocoNet© monitor and wiThrottle server application](https://github.com/tellurianinteractive/Tellurian.Trains.LocoNetMonitor).
-- Since 2024, developing a standalone timetable planning app (it will be open source when the first usable release i ready).
+- Since 2024, developing a standalone timetable planning app, it will be ready during 2026!
+- Since 2025, developing a web based [train dispatch system](https://github.com/tellurianinteractive/Tellurian.Trains.Dispatch).
+- In 2025, developed a [library for **LocoNet** and **XpressNet** commuication](https://github.com/tellurianinteractive/Tellurian.Train.Control).
+- in 2025, developed a [library for managing app translations in several ways](https://github.com/tellurianinteractive/Tellurian.Localization).
 ### Interested in
 - Developing open source.
 - Learning and improving my development skills.
