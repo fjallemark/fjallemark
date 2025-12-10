@@ -25,7 +25,7 @@ From late 90's, I started with Microsoft Interdev, Visual Basic and SQL Server. 
 - Programming using AI.
 
 ### Current projects
-:white_check_mark: in production ordeployed to [NuGet](https://www.nuget.org/packages?q=Tellurian), :eight_spoked_asterisk: priority project, :construction: under evaulation/redesign.
+:white_check_mark: in production or deployed to [NuGet](https://www.nuget.org/packages?q=Tellurian), :eight_spoked_asterisk: priority project, :construction: under evaulation/redesign.
 - Since 2016, I have developing a [prototype for timetable planning](https://github.com/fjallemark/TimetablePlanningApp) that has been used for planning operations at several module meetings.
 - :white_check_mark: Since 2018, developing geospatial calculation library [Tellurian.Geospatial](https://github.com/tellurianinteractive/Tellurian.Geospatial).
 - :white_check_mark: Since 2019, developing a model railway fast clock as open source, see [Clock](https://fastclock.azurewebsites.net/) in Azure.
