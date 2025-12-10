@@ -25,7 +25,7 @@ From late 90's, I started with Microsoft Interdev, Visual Basic and SQL Server. 
 - Programming using AI.
 
 ### Current projects
-:white_check_mark: in production ordeployed to [NuGet](https://www.nuget.org/packages?q=Tellurian), :eight_spoked_asterisk: priority project, :construction: under evaulation/redisign.
+:white_check_mark: in production ordeployed to [NuGet](https://www.nuget.org/packages?q=Tellurian), :eight_spoked_asterisk: priority project, :construction: under evaulation/redesign.
 - Since 2016, I have developing a [prototype for timetable planning](https://github.com/fjallemark/TimetablePlanningApp) that has been used for planning operations at several module meetings.
 - :white_check_mark: Since 2018, developing geospatial calculation library [Tellurian.Geospatial](https://github.com/tellurianinteractive/Tellurian.Geospatial).
 - :white_check_mark: Since 2019, developing a model railway fast clock as open source, see [Clock](https://fastclock.azurewebsites.net/) in Azure.
@@ -33,9 +33,9 @@ From late 90's, I started with Microsoft Interdev, Visual Basic and SQL Server. 
 - :white_check_mark: Since 2020, developing a model railway module and meeting management system as open source, see [ModuleRegistry](https://moduleregistry.azurewebsites.net/).
 - :white_check_mark: Since 2021, developing an app to create and print loco- and wagon cards for model railway operation, see [Wagon Card App](https://wagoncardapp.azurewebsites.net/).
 - :construction: Since 2022, developing a [LocoNet© monitor and wiThrottle server application](https://github.com/tellurianinteractive/Tellurian.Trains.LocoNetMonitor).
-- :white_check_mark: Since 2023, developing a library for reading XPLN .ODS files and validate consistency.
-- :construction: Since 2024, developing a standalone timetable planning app, it will be ready during 2026!
-- :eight_spoked_asterisk: Since 2025, developing a web based [train dispatch system](https://github.com/tellurianinteractive/Tellurian.Trains.Dispatch). Ready in early 2026.
+- :white_check_mark: Since 2023, developing a library for [reading XPLN .ODS files and validate consistency](https://github.com/tellurianinteractive/Tellurian.Trains.Schedule.Importers).
+- :construction: Since 2024, developing a standalone timetable planning app. The ambition is that it will be ready during 2026.
+- :eight_spoked_asterisk: Since 2025, developing a web based [train dispatch system](https://github.com/tellurianinteractive/Tellurian.Trains.Dispatch). Planned release early 2026.
 - :white_check_mark: In 2025, developed a [library for **LocoNet** and **XpressNet** commuication](https://github.com/tellurianinteractive/Tellurian.Train.Control).
 - :white_check_mark: in 2025, developed a [library for managing app translations in several ways](https://github.com/tellurianinteractive/Tellurian.Localization).
 - 
