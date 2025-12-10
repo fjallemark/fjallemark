@@ -38,7 +38,7 @@ From late 90's, I started with Microsoft Interdev, Visual Basic and SQL Server. 
 - :eight_spoked_asterisk: Since 2025, developing a web based [train dispatch system](https://github.com/tellurianinteractive/Tellurian.Trains.Dispatch). Planned release early 2026.
 - :white_check_mark: In 2025, developed a [library for **LocoNet** and **XpressNet** commuication](https://github.com/tellurianinteractive/Tellurian.Train.Control).
 - :white_check_mark: in 2025, developed a [library for managing app translations in several ways](https://github.com/tellurianinteractive/Tellurian.Localization).
-- 
+
 ### Interested in
 - Developing open source.
 - Learning and improving my development skills.
