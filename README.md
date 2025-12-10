@@ -15,6 +15,7 @@ Later, I wrote more programs and databases for public transport in Pascal on Pri
 From late 90's, I started with Microsoft Interdev, Visual Basic and SQL Server. A few years later it was .NET and Visual Studio, which it still is.
 
 ### My Specialist Areas
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,html,css,wasm,ai,md,powershell,raspberrypi,sketchup,svg,windows)](https://skillicons.dev)
 - Developing in .NET and specifically Blazor - a web framework for .NET.
 - Design and implementation of SQL databases, primarily using raw SQL on *SQL Server* and tools like *Entity Framework* and *Dapper*.
 - Test driven programming in C#.
@@ -22,6 +23,9 @@ From late 90's, I started with Microsoft Interdev, Visual Basic and SQL Server. 
 - Software for real time monitoring of transportation.
 - Software for planning and controlling model railway trains at module meetings.
 - Programming using AI.
+
+
+
 ### Current projects
 :white_check_mark: in production, :ballot_box_with_check: deployed to [NuGet](https://www.nuget.org/packages?q=Tellurian), :heavy_check_mark: priority project, :construction: under evaulation/redisign.
 - Since 2016, I have developing a [prototype for timetable planning](https://github.com/fjallemark/TimetablePlanningApp) that has been used for planning operations at several module meetings.
