@@ -13,6 +13,7 @@ my first programs where train timetable simulation and a dating program.
 My proffessional coding started 1982 writing a timetable type setting program using a WANG computer and Basic, with transfer to the printing house.
 Later, I wrote more programs and databases for public transport in Pascal on Prime and VAX computers.
 From late 90's, I started with Microsoft Interdev, Visual Basic and SQL Server. A few years later it was .NET and Visual Studio, which it still is.
+I have worked with software and databases for public transportation, so transport operation i know.
 
 ### My Specialist Areas
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,html,css,wasm,ai,md,powershell,raspberrypi,sketchup,svg,windows)](https://skillicons.dev)
