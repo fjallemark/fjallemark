@@ -40,7 +40,7 @@ I have worked with software and databases for public transportation, so transpor
 - :white_check_mark: in 2025, developed a [library for managing app translations in several ways](https://github.com/tellurianinteractive/Tellurian.Localization).
 - :white_check_mark: in 2026, developed a [signal box and interlocking system for stations](https://github.com/tellurianinteractive/Tellurian.Trains.YardControl.Application)
 - :white_check_mark: in 2026, developed a [wiFRED Server](https://github.com/tellurianinteractive/Tellurian.Trains.WiThrottle).
-- 
+
 ### Interested in
 - Developing open source.
 - Learning and improving my development skills.
